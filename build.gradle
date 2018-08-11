@@ -7,6 +7,8 @@ ext{
     thisVersion = '4.8.5'
     suonisuoniVersion = '7'
     asdVersion = '8'
+    jedisVersion = '7.8.9'
+    heiheiVersion = '789qwe'
 }
 
 group 'com.shirenchang'

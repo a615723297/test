@@ -11,6 +11,7 @@ ext{
     heiheiVersion = '789qwe'
     testVersion = '1'
     testVerson = '2'
+    tianjiaVersion = '3'
 }
 
 group 'com.shirenchang'

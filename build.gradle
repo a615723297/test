@@ -10,6 +10,7 @@ ext{
     jedisVersion = '7.8.9'
     heiheiVersion = '789qwe'
     testVersion = '1'
+    testVerson = '2'
 }
 
 group 'com.shirenchang'

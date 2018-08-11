@@ -5,7 +5,8 @@ plugins {
 ext{
     springbootVersioin = '4.5.6'
     thisVersion = '4.8.5'
-    jedisVersion = '7.8.9'
+    suonisuoniVersion = '7'
+    asdVersion = '8'
 }
 
 group 'com.shirenchang'

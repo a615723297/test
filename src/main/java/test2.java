@@ -79,6 +79,12 @@ public class test2 {
 
     @Override
     public String toString() {
-        return "";
+        return "test2{" +
+                "a=" + a +
+                ", b=" + b +
+                ", c=" + c +
+                ", d=" + d +
+                ", e=" + e +
+                '}';
     }
 }

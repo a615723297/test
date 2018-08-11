@@ -9,6 +9,7 @@ ext{
     asdVersion = '8'
     jedisVersion = '7.8.9'
     heiheiVersion = '789qwe'
+    testVersion = '1'
 }
 
 group 'com.shirenchang'

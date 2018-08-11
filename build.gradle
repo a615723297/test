@@ -3,7 +3,6 @@ plugins {
 }
 
 ext{
-    springbootVersioin = '4.5.6'
     thisVersion = '4.8.5'
     suonisuoniVersion = '7'
     asdVersion = '8'
@@ -11,6 +10,7 @@ ext{
     heiheiVersion = '789qwe'
     testVersion = '1'
     testVerson = '2'
+    conflictVersion = '5'
 }
 
 group 'com.shirenchang'

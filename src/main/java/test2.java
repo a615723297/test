@@ -81,10 +81,6 @@ public class test2 {
     public String toString() {
         return "test2{" +
                 "a=" + a +
-                ", b=" + b +
-                ", c=" + c +
-                ", d=" + d +
-                ", e=" + e +
                 '}';
     }
 }
